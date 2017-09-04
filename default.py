@@ -1,3 +1,4 @@
 ﻿# -*- coding: utf-8 -*-
-import lib3sat
-lib3sat.list()
+from lib3sat import *
+import xbmc
+list()
